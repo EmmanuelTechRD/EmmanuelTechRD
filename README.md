@@ -4,7 +4,7 @@ I am a passionate Software Developer with a Love for Technology.
 
 **About me:**
 
-- 📈 Backend Python Developer at MSF Infosistema SRL | Python | Django | Django REST Framework | Javascript | React | TailwindCSS | PostgreSQL | MySQL
+- 📈 Full Stack Developer | Python | Django | Django REST Framework | Javascript | React.js | Next.js | TailwindCSS | PostgreSQL | MySQL
 
 - ❤️ I love to embrace new challenges and enjoy contributing to the growth of others.
 
